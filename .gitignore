@@ -1,0 +1,52 @@
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Python
+__pycache__/
+.venv/
+venv/
+venv-*/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Training artifacts
+models/
+checkpoints/
+logs/
+runs/
+*.h5
+*.keras
+*.ckpt
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+*.pkl
+
+# Data
+data/
+dataset/
+datasets/
+segmentation/
+*.tif
+*.tiff
+*.png
+*.jpg
+*.jpeg
+
+# Experiment outputs
+outputs/
+results/
+reports/
+*.csv
+*.json
+*.log

@@ -1,0 +1,7 @@
+tensorflow
+opencv-python
+scikit-learn
+albumentations
+matplotlib
+jupyterlab
+jupyter-resource-usage
